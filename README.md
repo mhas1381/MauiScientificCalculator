@@ -1,4 +1,4 @@
-# MauiScientificCalculator (UPDATED TO MAUI GA RELEASE)
+# MauiScientificCalculator
 A simple scientific calculator built using .NET MAUI for mobile development lesson final project
 
 
